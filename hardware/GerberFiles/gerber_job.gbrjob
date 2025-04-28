@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-27T13:34:14Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.5978,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "schematic v131"
+        },
+        "Owner": "Guillaume Larue <g-larue@orange.fr>",
+        "Size": {
+            "X": 95.1,
+            "Y": 90.3
+        }
+    }
+}
